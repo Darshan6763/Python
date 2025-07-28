@@ -1,45 +1,31 @@
 # Python Programming Challenge
 
 Welcome to the **Python Programming Challenge** repository!  
-This repo contains Python code, solutions, and resources for programming challenges and learning exercises.
+This repo contains Python code, solutions, and resources for programming challenges.
 
-## 🚀 Features
 
-- Python scripts for a variety of challenges
-- Example solutions and explanations
-- Best practices and tips for Python programming
-- Resources for learning and mastering Python
+ Beginner Challenges:
 
-## 📂 Structure
+Palindrome Checker
+FizzBuzz
+Factorial Calculator
+Reverse a String
+Prime Number Checker
 
-```
-python-programming-challenge/
-├── challenges/
-│   ├── challenge1.py
-│   └── ...
-├── solutions/
-│   ├── solution1.py
-│   └── ...
-├── README.md
-└── .gitignore
-```
+ 
+Intermediate Challenges:
 
-## 📝 Contributing
+Caesar Cipher
+Tic-Tac-Toe (CLI)
+Simple Calculator
+Word Count Tool
+File Organizer
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes
-4. Open a Pull Request
+ 
+Advanced Challenges:
 
-## 📢 Topics
-
-- python
-- programming
-- challenge
-- learning
-- scripts
-- best-practices
-
-## 📄 License
-
-This project is licensed under the MIT License.
+Web Scraper (using requests & BeautifulSoup)
+Weather CLI App (using an API)
+Markdown to HTML Converter
+REST API with Flask/FastAPI
+Automated Birthday Email Sender
